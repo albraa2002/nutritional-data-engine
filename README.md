@@ -1,6 +1,6 @@
 # 🌿 Health Analytics: Nutritional Lab & Simulation Engine
 
-[![Live Demo]([https://img.shields.io/badge/Live%20Demo-Test%20the%20Lab-success?style=for-the-badge&logo=vercel)](https://your-vercel-link-here.vercel.app/](https://nutritional-data-engine.vercel.app/))
+[![Live Demo](https://nutritional-data-engine.vercel.app/)
 
 ## 💡 The Concept: Data Analytics Beyond Business
 Data analysis isn't just for e-commerce conversion rates or sports metrics; it can optimize our daily routines. This project is an interactive **Nutritional Prototype** built to simulate the physiological impact of natural extracts compared to commercial energy drinks.
